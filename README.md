@@ -112,7 +112,7 @@ An all-in-one AI platform that brings **data analysis, machine learning, predict
 
 ---
 
-## 🧩 What I Like Building
+<!--## 🧩 What I Like Building
 
 ```text
 💡 AI Projects
@@ -136,9 +136,10 @@ I especially enjoy projects where **AI meets practical applications**.
 * 💻 Contribute to open-source projects
 * 🏆 Build projects that stand out
 
----
+----
 
 ## 🤝 Let's Connect
+-->
 
 ## 🤝 Let's Connect
 
