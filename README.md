@@ -140,14 +140,16 @@ I especially enjoy projects where **AI meets practical applications**.
 
 ## 🤝 Let's Connect
 
+## 🤝 Let's Connect
+
 <p align="center">
 
 <a href="https://github.com/Aditya-ZOD">
-<img src="https://img.shields.io/badge/GitHub-Aditya--ZOD-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-ADITYA--ZOD-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:adityagupta1624111@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityagupta1624111@gmail.com&su=Contact%20from%20GitHub">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
